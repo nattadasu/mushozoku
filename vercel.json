@@ -1,0 +1,11 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://nattadasu.my.id"
+    },
+    {
+      "source": "/github",
+      "destination": "https://github.com/nattadasu"
+  ]
+}
