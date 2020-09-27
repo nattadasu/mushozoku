@@ -1,0 +1,23 @@
+{
+    "bracket-pair-colorizer-2.excludedLanguages": [
+        "bbcode"
+    ],
+    "bracket-pair-colorizer.excludedLanguages": [
+        "bbcode",
+        "html"
+    ],
+    "cSpell.words": [
+        "Tadama",
+        "Natsu",
+        "Nekone",
+        "Ryuusei",
+        "Ryuuzaki",
+        "Nikolay",
+        "Tolenka",
+        "Alex",
+        "Tomatsu"
+    ],
+    "cSpell.ignoreWords": [
+        "chara"
+    ]
+}
